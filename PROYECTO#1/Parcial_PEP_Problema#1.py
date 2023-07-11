@@ -1,4 +1,7 @@
-##NUMEROS ALEATORIOS 2.0
+Luzmar Almao  C.I: 27296990
+Manuel Planas C.I: 27373001
+
+##NUMEROS ALEATORIOS 
 
 N = input("Ingrese un valor semilla de 4 cifras numericas: ")
 
