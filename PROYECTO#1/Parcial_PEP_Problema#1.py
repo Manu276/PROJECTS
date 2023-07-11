@@ -1,5 +1,5 @@
-Luzmar Almao  C.I: 27296990
-Manuel Planas C.I: 27373001
+#Luzmar Almao  C.I: 27296990
+#Manuel Planas C.I: 27373001
 
 ##NUMEROS ALEATORIOS 
 
