@@ -1,3 +1,5 @@
+Luzmar Almao  C.I: 27296990
+Manuel Planas C.I: 27373001
 #EMPLEADO
 
 productos_disponibles = []
