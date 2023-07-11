@@ -35,8 +35,9 @@ print("###########################################")
 print(" ")
 print(" ")
 
+print("LOS PRODUCTOS DISPONIBLES SON: ")
 for producto in productos_disponibles:
-  #print("LOS PRODUCTOS DISPONIBLES SON:")
+  
   print("{} - ${} - {} unidades".format(producto['nombre'], producto['precio'], producto['cantidad']))
 
 ##La función format() toma los valores que se van a insertar en la cadena y los coloca en los lugares correspondientes dentro de la cadena.
