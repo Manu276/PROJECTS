@@ -35,7 +35,7 @@ print("###########################################")
 print(" ")
 print(" ")
 
-print("LOS PRODUCTOS DISPONIBLES SON: ")
+
 for producto in productos_disponibles:
   
   print("{} - ${} - {} unidades".format(producto['nombre'], producto['precio'], producto['cantidad']))
